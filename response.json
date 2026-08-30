@@ -1,0 +1,81 @@
+{
+  "id": "gen-1788074462-tDbVHiMWzzHLzALPOk3c",
+  "content": "Hello! I'm doing great, thank you! 😊 How can I help you today?",
+  "additional_kwargs": {
+    "reasoning_content": "The user is simply greeting me. A friendly, warm response is appropriate.",
+    "reasoning_details": [
+      {
+        "type": "reasoning.text",
+        "text": "The user is simply greeting me. A friendly, warm response is appropriate.",
+        "format": "unknown",
+        "index": 0
+      }
+    ]
+  },
+  "response_metadata": {
+    "tokenUsage": {
+      "prompt_tokens": 26,
+      "completion_tokens": 36,
+      "total_tokens": 62,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 19,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "finish_reason": "stop",
+    "model_provider": "openrouter",
+    "model_name": "inclusionai/ling-3.0-flash-fin:free",
+    "usage": {
+      "prompt_tokens": 26,
+      "completion_tokens": 36,
+      "total_tokens": 62,
+      "cost": 0,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0,
+        "upstream_inference_prompt_cost": 0,
+        "upstream_inference_completions_cost": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 19,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "model": "inclusionai/ling-3.0-flash-fin:free"
+  },
+  "tool_calls": [],
+  "invalid_tool_calls": [],
+  "usage_metadata": {
+    "input_tokens": 26,
+    "output_tokens": 36,
+    "total_tokens": 62,
+    "input_token_details": {
+      "cache_read": 0,
+      "audio": 0
+    },
+    "output_token_details": {
+      "reasoning": 19
+    }
+  }
+}
